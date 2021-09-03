@@ -1,12 +1,10 @@
 # access-test2
-
-<html>
-<head>
-
-<meta charset="UTF-8">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<html lang="ja">
+ <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <!--ここから上はお決まりの定型文です-->
 
@@ -115,9 +113,9 @@ a.p:hover span {
 <a href="ここにリンク先のURLを入れる" target="_blank" rel="noopener noreferrer">新規タブで開く</a>
 
 <!—ぱんくずリストの表示例—>
-<!--今回は未使用
-<p><a href="https://torokoid.github.io/fts_home">Home</a>>同窓会</p>
-—>
+
+<p><a href="https://torokoid.github.io/access-test">Home</a>>access-test2</p>
+
 
 <!—表題の表示、背景黄色、流れ文字の例—>
 <h1><span class="yellow"><marquee behavior="alternate">!!! GPアンテナ、給電点高さ違い、傾きでの性能比較 !!!</marquee></span></h1>
