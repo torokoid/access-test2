@@ -1,11 +1,22 @@
 # access-test2
+<html lang="ja">
+ <head>
+  <meta charset="utf-8" />
+	 
 
+<style type="text/css">
 
+  p {
+color: #fffafa;
+font-size: 1.5em;
+ }
 
-
-
-
-ff; blinking;}
+ .red {color:#ff0000;}
+ .grey {color:#999999;}
+ .snow {color:#fffafa;}
+ .yellow {color:#ff0000; background:#ffff00;}
+ .blue {color:#0000ff;}
+ .white {color:#ffffff; blinking;}
  .waku {border:2px dotted #99cc66;
 　　　　　　line-height: 200%;
 　　　　　　padding: 10px;}
@@ -51,7 +62,7 @@ body::before {
   より見やすくご覧頂けます。
 </p>
 	
-<p><a href="https://torokoid.github.io/access-test">Home</a>>access-test2</p>
+<p><a href="https://torokoid.github.io/access-test">access-test</a>>access-test2</p>
 	
 <!—表題の表示、背景黄色、流れ文字の例—>
 <h1><span class="yellow"><marquee behavior="alternate">!!! GPアンテナ、給電点高さ違い、傾きでの性能比較 !!!</marquee></span></h1>
