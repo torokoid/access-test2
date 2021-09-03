@@ -73,7 +73,8 @@ body::before {
 <a href="20210831_001.JPG" data-lightbox="abc"><img src="20210831_001.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">トランクリッドをノード局側に向けています。<br>屋根上のアンテナはややゲインが落ちますが、これで効果が無ければ、屋根にあげる価値なしとします。</span></h3>
 <a href="20210831_003.JPG" data-lightbox="abc"><img src="20210831_003.JPG" alt="サンプル画像" width="900" /></a>
-	
+<h3><span class="white">屋根上だと、S3でアクセスしました。</span></h3>
+<a href="20210831_007.JPG" data-lightbox="abc"><img src="20210831_007.JPG" alt="サンプル画像" width="900" /></a>	
 
 
 <h2><span class="yellow">結果はSG7900の圧勝でした。<br>極太アンテナは全域でノードにアクセス出来ず＆APRSの軌跡を残せずでした。<br>SG7900は基地局に対して車体の後ろに回った状態でもアクセス出来てました。<br>Amazonの口コミを見たら、極太アンテナは２mの波が出ないと書かれてます。</span></h2>
