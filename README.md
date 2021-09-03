@@ -70,18 +70,18 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h3><span class="white">宇都宮のハムショップノードまで約10km弱の距離から、アクセステスト。</span></h3>
-<a href="20210831_001.JPG" data-lightbox="abc"><img src="20210831_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210903_001.JPG" data-lightbox="abc"><img src="20210903_001.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">トランクリッドをノード局側に向けています。<br>屋根上のアンテナはややゲインが落ちますが、これで効果が無ければ、屋根にあげる価値なしとします。</span></h3>
-<a href="20210831_003.JPG" data-lightbox="abc"><img src="20210831_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210903_003.JPG" data-lightbox="abc"><img src="20210903_003.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">屋根上だと、S3でアクセスしました。</span></h3>
-<a href="20210831_007.JPG" data-lightbox="abc"><img src="20210831_007.JPG" alt="サンプル画像" width="900" /></a>	
+<a href="20210903_007.JPG" data-lightbox="abc"><img src="20210903_007.JPG" alt="サンプル画像" width="900" /></a>	
 <h3><span class="white">アンテナを寝せた状態でのアクセステスト、流石にこれではアクセスしませんでした。</span></h3>
-<a href="20210831_004.JPG" data-lightbox="abc"><img src="20210831_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210831_005.JPG" data-lightbox="abc"><img src="20210831_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210903_004.JPG" data-lightbox="abc"><img src="20210903_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210903_005.JPG" data-lightbox="abc"><img src="20210903_005.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">アンテナの寝せ方を電波がノード局方向に出る様にした状態でのアクセステスト。</span></h3>
-<a href="20210831_006.JPG" data-lightbox="abc"><img src="20210831_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210903_006.JPG" data-lightbox="abc"><img src="20210903_006.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">寝せた状態だと、S1でアクセスしました。</span></h3>
-<a href="20210831_008.JPG" data-lightbox="abc"><img src="20210831_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210903_008.JPG" data-lightbox="abc"><img src="20210903_008.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="white">最後にトランクリッドのSG7900でアクセステスト<br>こちらもS1でアクセスしました。</span></h3>
 	
