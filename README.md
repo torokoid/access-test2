@@ -69,25 +69,25 @@ body::before {
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h3><span class="white">宇都宮のハムショップノードまで約10km弱の距離から、アクセステスト。</span></h3>
+<h2><span class="white">宇都宮のハムショップノードまで約10km弱の距離から、アクセステスト。</span></h2>
 <a href="20210903_001.JPG" data-lightbox="abc"><img src="20210903_001.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">トランクリッドをノード局側に向けています。<br>屋根上のアンテナはややゲインが落ちますが、これで効果が無ければ、屋根にあげる価値なしとします。</span></h3>
+<h2><span class="white">トランクリッドをノード局側に向けています。<br>屋根上のアンテナはややゲインが落ちますが、これで効果が無ければ、屋根にあげる価値なしとします。</span></h2>
 <a href="20210903_003.JPG" data-lightbox="abc"><img src="20210903_003.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">屋根上だと、S3でアクセスしました。</span></h3>
+<h2><span class="white">屋根上だと、S3でアクセスしました。</span></h2>
 <a href="20210903_007.JPG" data-lightbox="abc"><img src="20210903_007.JPG" alt="サンプル画像" width="900" /></a>	
-<h3><span class="white">アンテナを寝せた状態でのアクセステスト、流石にこれではアクセスしませんでした。</span></h3>
+<h2><span class="white">アンテナを寝せた状態でのアクセステスト、流石にこれではアクセスしませんでした。</span></h2>
 <a href="20210903_004.JPG" data-lightbox="abc"><img src="20210903_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210903_005.JPG" data-lightbox="abc"><img src="20210903_005.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">アンテナの寝せ方を電波がノード局方向に出る様にした状態でのアクセステスト。</span></h3>
+<h2><span class="white">アンテナの寝せ方を電波がノード局方向に出る様にした状態でのアクセステスト。</span></h2>
 <a href="20210903_006.JPG" data-lightbox="abc"><img src="20210903_006.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">寝せた状態だと、S1でアクセスしました。</span></h3>
+<h2><span class="white">寝せた状態だと、S1でアクセスしました。</span></h2>
 <a href="20210903_008.JPG" data-lightbox="abc"><img src="20210903_008.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="white">最後にトランクリッドのSG7900でアクセステスト<br>こちらもS1でアクセスしました。</span></h3>
+<h2><span class="white">最後にトランクリッドのSG7900でアクセステスト<br>こちらもS1でアクセスしました。</span></h2>
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F1DE_HqGI5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 
-<h2><span class="yellow">結果は給電点を上げれば効果がある。<br>ただしアンテナ長さを克服するために寝るとやはりSが落ちる。<br>短いアンテナを屋根上にあげるテストはできていないが、<br>SG7500の垂直置きでもS1 → S3で、Sが2しか上がらないので、短いアンテナでは期待薄。<br>結論：しばらくはトランクリッドのSG9700で行きますかね〜！。</span></h2>	
+<h1><span class="yellow">結果は給電点を上げれば効果がある。<br>ただしアンテナ長さを克服するために寝るとやはりSが落ちる。<br>短いアンテナを屋根上にあげるテストはできていないが、<br>SG7500の垂直置きでもS1 → S3で、Sが2しか上がらないので、短いアンテナでは期待薄。<br>結論：しばらくはトランクリッドのSG9700で行きますかね〜！。</span></h1>	
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
