@@ -77,13 +77,17 @@ body::before {
 <a href="20210831_007.JPG" data-lightbox="abc"><img src="20210831_007.JPG" alt="サンプル画像" width="900" /></a>	
 <h3><span class="white">アンテナを寝せた状態でのアクセステスト、流石にこれではアクセスしませんでした。</span></h3>
 <a href="20210831_004.JPG" data-lightbox="abc"><img src="20210831_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210831_005.JPG" data-lightbox="abc"><img src="20210831_005.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">アンテナの寝せ方を電波がノード局方向に出る様にした状態でのアクセステスト。</span></h3>
-<a href="20210831_004.JPG" data-lightbox="abc"><img src="20210831_004.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">寝せた状態だと、S31でアクセスしました。</span></h3>
+<a href="20210831_006.JPG" data-lightbox="abc"><img src="20210831_006.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">寝せた状態だと、S1でアクセスしました。</span></h3>
 <a href="20210831_008.JPG" data-lightbox="abc"><img src="20210831_008.JPG" alt="サンプル画像" width="900" /></a>
 
+<h3><span class="white">最後にトランクリッドのSG7900でアクセステスト<br>こちらもS1でアクセスしました。</span></h3>
+	
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F1DE_HqGI5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 
-<h2><span class="yellow">最後の問い合わせには、直接電話での回答が来ました。<br>結論は「ノイズ対策用フィルタ」と「トリクル充電回路が入っています」との事。<br>安定化電源を使うときはノイズは無いので直結で可、<br>トリクル充電回路は、無線機の状態によって、充電に98%、運用に2%などの割合調整をしているとの事でした。<br>最後の問い合わせに対して返信が来ないな〜と思っていたところに電話が来てびっくりでした。<br>さすが一流メーカーですね。サポートがしっかりしています。</span></h2>	
+<h2><span class="yellow">結果は給電点を上げれば効果がある。<br>ただしアンテナ長さを克服するために寝るとやはりSが落ちる。<br>短いアンテナを屋根上にあげるテストはできていないが、<br>SG7500の垂直置きでもS1 → S3で、Sが2しか上がらない。<br>結論：しばらくはトランクリッドのSG9700で行こう！。</span></h2>	
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
