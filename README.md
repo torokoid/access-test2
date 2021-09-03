@@ -106,5 +106,5 @@ body::before {
 
 <!-- フッタ -->
  <footer><span class="white">
- Copyright 2021/08/31 S.Hada
+ Copyright 2021/09/03 S.Hada
 	 </span></footer>
