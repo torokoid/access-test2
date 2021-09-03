@@ -87,7 +87,7 @@ body::before {
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F1DE_HqGI5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 
-<h2><span class="yellow">結果は給電点を上げれば効果がある。<br>ただしアンテナ長さを克服するために寝るとやはりSが落ちる。<br>短いアンテナを屋根上にあげるテストはできていないが、<br>SG7500の垂直置きでもS1 → S3で、Sが2しか上がらない。<br>結論：しばらくはトランクリッドのSG9700で行こう！。</span></h2>	
+<h2><span class="yellow">結果は給電点を上げれば効果がある。<br>ただしアンテナ長さを克服するために寝るとやはりSが落ちる。<br>短いアンテナを屋根上にあげるテストはできていないが、<br>SG7500の垂直置きでもS1 → S3で、Sが2しか上がらない。<br>結論：しばらくはトランクリッドのSG9700で行きますかね〜！。</span></h2>	
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
