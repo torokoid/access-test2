@@ -75,45 +75,14 @@ body::before {
 <a href="20210831_003.JPG" data-lightbox="abc"><img src="20210831_003.JPG" alt="サンプル画像" width="900" /></a>
 <h3><span class="white">屋根上だと、S3でアクセスしました。</span></h3>
 <a href="20210831_007.JPG" data-lightbox="abc"><img src="20210831_007.JPG" alt="サンプル画像" width="900" /></a>	
+<h3><span class="white">アンテナを寝せた状態でのアクセステスト、流石にこれではアクセスしませんでした。</span></h3>
+<a href="20210831_004.JPG" data-lightbox="abc"><img src="20210831_004.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">アンテナの寝せ方を電波がノード局方向に出る様にした状態でのアクセステスト。</span></h3>
+<a href="20210831_004.JPG" data-lightbox="abc"><img src="20210831_004.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">寝せた状態だと、S31でアクセスしました。</span></h3>
+<a href="20210831_008.JPG" data-lightbox="abc"><img src="20210831_008.JPG" alt="サンプル画像" width="900" /></a>
 
 
-<h2><span class="yellow">結果はSG7900の圧勝でした。<br>極太アンテナは全域でノードにアクセス出来ず＆APRSの軌跡を残せずでした。<br>SG7900は基地局に対して車体の後ろに回った状態でもアクセス出来てました。<br>Amazonの口コミを見たら、極太アンテナは２mの波が出ないと書かれてます。</span></h2>
-	<br>
-<h2><span class="white">追加試験</span></h2>	
-<h2><span class="yellow">自宅に上げたGPアンテナでハンディー機から波出せるかチェックしました。<br>物置から引っ張り出したGPはなんと1.2GHz対応で、N型接栓。セットの同軸もやけに太いものでしたが、ハンディー機の5Watt出力で宇都宮のノード局にすんなり接続。<br>給電点の高さは3m程度ですね。</span></h2>
-
-<a href="20210831_011.jpg" data-lightbox="abc"><img src="20210831_011.jpg" alt="サンプル画像" width="400" /></a>	
-<a href="20210831_012.JPG" data-lightbox="abc"><img src="20210831_012.JPG" alt="サンプル画像" width="400" /></a>
-
-<h2><span class="yellow">現時点の結論は、車側の空中線が非力・・・給電点高さを確保してみましょう！</span></h2>
-	<br><br>
-<h3><span class="white">次のテストは、アンテナ角度変えられるマグネット基台で、屋根上に設置しアンテナを前に倒してみますかね〜自衛隊の車がよくやってるやつです。<br>基台の候補はこれ。</span></h3>
-<a href="20210831_008.png" data-lightbox="abc"><img src="20210831_008.png" alt="サンプル画像" width="900" /></a>	
-<h3><span class="white">9月1日にアンテナを倒す件を、いつもいろいろ教えて頂く四国のOM殿に聞いてみると、430は縦偏波だから厳しいかもね〜とのサジェッションいただきました。<br>ただ、ハンディー機を手持ちで使う時にかなり横にしても使えているので、試しにノード局に縦と横でアクセスする実験しました。動画は自宅２階からのアクセス実験映像です。</span></h3>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i2nbK59qE9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nfo6nvLNa-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<h3><span class="white">接続の成功確率がやや落ちますが、受診時のSはあまり変わりませんでした。<br>まあ、ハンディー機特有の性質かもしれないので、天気の良い時にでも車の屋根にSG9700を斜め設置して、給電点が上がった効果と偏波面寝せたマイナス効果の比較で、どちらが勝つか実験してみましょう。<br>電波がものに当たって反射すると、偏波面が回転する？と言うほのかな記憶にも期待中〜<br>本日9/1はここまでです。</span></h3>	
-	
-<br><br>
-	
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h2><span class="white">追加情報</span></h2>
-<h2><span class="yellow">最近のアンテナのカタログに(DIGITAL対応)と書かれているのが気になったので、<br>メーカーにメールして確認しました。<br>結論は「関係ありません」とのこと。<br>以下メールやり取りの記録。問い合わせから返答まで、26分の速さにはびっくりです。</span></h2>
-<a href="20210831_009.png" data-lightbox="abc"><img src="20210831_009.png" alt="サンプル画像" width="900" /></a>	
-<h2><span class="white">この話を無線仲間にも伝える旨をお礼と共に打診しました。</span></h2>
-<a href="20210831_016.png" data-lightbox="abc"><img src="20210831_016.png" alt="サンプル画像" width="900" /></a>
-<br><br><br><br><br>
-
-<h2><span class="yellow">YAESUのハンディー機がACアダプターで充電しながらの送信ができない様なので、<br>メーカーにメールで問い合わせしました。<br>結論は送信には未対応、オプションを使えば送信可能とのことでした。</span></h2>
-<a href="20210831_013.png" data-lightbox="abc"><img src="20210831_013.png" alt="サンプル画像" width="900" /></a>
-<h2><span class="white">これですね。</span></h2>
-<a href="20210831_015.png" data-lightbox="abc"><img src="20210831_015.png" alt="サンプル画像" width="900" /></a>
-	
-<h2><span class="white">さらに、シガーライター電源のケースに何か回路が入っているのか？問い合わせました。</span></h2>
-<a href="20210831_014.png" data-lightbox="abc"><img src="20210831_014.png" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">最後の問い合わせには、直接電話での回答が来ました。<br>結論は「ノイズ対策用フィルタ」と「トリクル充電回路が入っています」との事。<br>安定化電源を使うときはノイズは無いので直結で可、<br>トリクル充電回路は、無線機の状態によって、充電に98%、運用に2%などの割合調整をしているとの事でした。<br>最後の問い合わせに対して返信が来ないな〜と思っていたところに電話が来てびっくりでした。<br>さすが一流メーカーですね。サポートがしっかりしています。</span></h2>	
 
 
