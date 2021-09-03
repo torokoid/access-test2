@@ -47,7 +47,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/access-test/20210831_007.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/access-test2/20210903_002.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 </style>
@@ -69,19 +69,13 @@ body::before {
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h3><span class="white">JR宇都宮駅の西側にある、ハムショップのノード局にアクセスしやすいのはどちらのアンテナか、<br>実験しました。リグはFTM300Dで50Watt送信。<br>コースは宇都宮から１駅北上した岡本駅から東側の鬼怒川を渡って、南南東に進むルート。<br>東進、南下側で屋根上のアンテナ、Uターンして、北上、西進側でテールゲートのアンテナを試しました。</span></h3>
-<a href="20210831_004.png" data-lightbox="abc"><img src="20210831_004.png" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">比較したのは、テールゲートのダイヤモンドSG7900と、最近見かける極太アンテナ。</span></h3>
-<a href="20210831_001.jpg" data-lightbox="abc"><img src="20210831_001.jpg" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">SG7900はやけに長いので、走行中に揺れないように釣り糸で２方向に引っ張りました。</span></h3>
-<a href="20210831_002.jpg" data-lightbox="abc"><img src="20210831_002.jpg" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">極太アンテナは、給電部高さ的には有利な位置にセット。</span></h3>
-<a href="20210831_003.jpg" data-lightbox="abc"><img src="20210831_003.jpg" alt="サンプル画像" width="900" /></a>	
-<h3><span class="white">SG7900のカタログデータ。</span></h3>
-<a href="20210831_005.png" data-lightbox="abc"><img src="20210831_005.png" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">極太アンテナのカタログデータ。</span></h3>
-<a href="20210831_006.png" data-lightbox="abc"><img src="20210831_006.png" alt="サンプル画像" width="900" /></a>
-<br>
+<h3><span class="white">宇都宮のハムショップノードまで約10km弱の距離から、アクセステスト。</span></h3>
+<a href="20210831_001.JPG" data-lightbox="abc"><img src="20210831_001.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">トランクリッドをノード局側に向けています。<br>屋根上のアンテナはややゲインが落ちますが、これで効果が無ければ、屋根にあげる価値なしとします。</span></h3>
+<a href="20210831_003.JPG" data-lightbox="abc"><img src="20210831_003.JPG" alt="サンプル画像" width="900" /></a>
+	
+
+
 <h2><span class="yellow">結果はSG7900の圧勝でした。<br>極太アンテナは全域でノードにアクセス出来ず＆APRSの軌跡を残せずでした。<br>SG7900は基地局に対して車体の後ろに回った状態でもアクセス出来てました。<br>Amazonの口コミを見たら、極太アンテナは２mの波が出ないと書かれてます。</span></h2>
 	<br>
 <h2><span class="white">追加試験</span></h2>	
