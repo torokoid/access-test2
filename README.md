@@ -120,7 +120,7 @@ a.p:hover span {
 —>
 
 <!—表題の表示、背景黄色、流れ文字の例—>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2019年4月22日(月)平成最後の安否確認会の記録＠牡蠣ビストロ貝殻荘(飯田橋) !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! GPアンテナ、給電点高さ違い、傾きでの性能比較 !!!</marquee></span></h1>
 
 
 <div style="background-color:rgb(255,255,255,0.3);”>
@@ -140,7 +140,7 @@ a.p:hover span {
 
 <!-- フッタ -->
  <footer>
- Copyright 2018/06/15 S.Hada
+ Copyright 2021/09/03 S.Hada
  </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
