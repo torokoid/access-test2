@@ -73,6 +73,9 @@ body::before {
 <a href="20210903_001.JPG" data-lightbox="abc"><img src="20210903_001.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="white">トランクリッドをノード局側に向けています。<br>屋根上のアンテナはややゲインが落ちますが、これで効果が無ければ、屋根にあげる価値なしとします。</span></h2>
 <a href="20210903_003.JPG" data-lightbox="abc"><img src="20210903_003.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">SG7500とSG7900のカタログデータ。</span></h3>
+<a href="https://torokoid.github.io/access-test/20210831_005.png" data-lightbox="abc"><img src="https://torokoid.github.io/access-test/20210831_005.png" alt="サンプル画像" width="900" /></a>
+<a href="20210903_009.JPG" data-lightbox="abc"><img src="20210903_009.JPG" alt="サンプル画像" width="900" /></a>	
 <h2><span class="white">屋根上だと、S3でアクセスしました。</span></h2>
 <a href="20210903_007.JPG" data-lightbox="abc"><img src="20210903_007.JPG" alt="サンプル画像" width="900" /></a>	
 <h2><span class="white">アンテナを寝せた状態でのアクセステスト、流石にこれではアクセスしませんでした。</span></h2>
