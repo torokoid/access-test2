@@ -104,7 +104,7 @@ body::before {
 <a href="20210903_011.JPG" data-lightbox="abc"><img src="20210903_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210903_012.JPG" data-lightbox="abc"><img src="20210903_012.JPG" alt="サンプル画像" width="900" /></a>
 	
-<h1><span class="yellow">結果はここからでは全くアクセス出来ませんでした。<br>結論：やはり、しばらくはトランクリッドのSG9700で行きますかね〜！。</span></h1>
+<h1><span class="yellow">結果はここからでは全くアクセス出来ませんでした。<br>結論：やはり、しばらくはトランクリッドのSG7900で行きますかね〜！。</span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
