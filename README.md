@@ -64,7 +64,7 @@ body::before {
 	
 <p><a href="https://torokoid.github.io/access-test">access-test</a>>access-test2</p>
 	
-<!—表題の表示、背景黄色、流れ文字の例—>
+<!-- 表題の表示、背景黄色、流れ文字の例 -—>
 <h1><span class="yellow"><marquee behavior="alternate">!!! ２０２１年9月3日、GPアンテナ、給電点高さ違い、傾きでの性能比較 !!!</marquee></span></h1>
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
