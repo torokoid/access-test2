@@ -65,7 +65,7 @@ body::before {
 <p><a href="https://torokoid.github.io/access-test">access-test</a>>access-test2</p>
 	
 <!—表題の表示、背景黄色、流れ文字の例—>
-<h1><span class="yellow"><marquee behavior="alternate">!!! GPアンテナ、給電点高さ違い、傾きでの性能比較 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! ２０２１年9月3日、GPアンテナ、給電点高さ違い、傾きでの性能比較 !!!</marquee></span></h1>
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -92,6 +92,10 @@ body::before {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F1DE_HqGI5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 
 <h1><span class="yellow">結果は給電点を上げれば効果がある。<br>ただしアンテナ長さを克服するために寝るとやはりSが落ちる。<br>短いアンテナを屋根上にあげるテストはできていないが、<br>SG7500の垂直置きでもS1 → S3で、Sが2しか上がらないので、<br>短いアンテナでは期待薄。<br>結論：しばらくはトランクリッドのSG9700で行きますかね〜！。</span></h1>	
+	
+<br><br><br><br>
+	
+<h1><span class="yellow"><marquee behavior="alternate">!!! ２０２１年9月4日、短いGPアンテナのテストができていなかったので、いつもの公園で追加テスト !!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
