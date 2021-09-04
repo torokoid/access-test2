@@ -73,7 +73,7 @@ body::before {
 <a href="20210903_001.JPG" data-lightbox="abc"><img src="20210903_001.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="white">トランクリッドをノード局側に向けています。<br>屋根上のアンテナはややゲインが落ちますが、これで効果が無ければ、屋根にあげる価値なしとします。</span></h2>
 <a href="20210903_003.JPG" data-lightbox="abc"><img src="20210903_003.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">SG7500とSG7900のカタログデータ。</span></h3>
+<h2><span class="white">SG7500とSG7900のカタログデータ。</span></h2>
 <a href="20210903_009.JPG" data-lightbox="abc"><img src="20210903_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/access-test/20210831_005.png" data-lightbox="abc"><img src="https://torokoid.github.io/access-test/20210831_005.png" alt="サンプル画像" width="900" /></a>
 	
@@ -96,6 +96,15 @@ body::before {
 <br><br><br><br>
 	
 <h1><span class="yellow"><marquee behavior="alternate">!!! ２０２１年9月4日、短いGPアンテナのテストができていなかったので、いつもの公園で追加テスト !!!</marquee></span></h1>
+
+<h2><span class="white">押し入れの奥から引っ張り出した、短いアンテナを屋根上に設置してテスト。</span></h2>
+<a href="20210903_010.JPG" data-lightbox="abc"><img src="20210903_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="white">このシリーズはすでにカタログ落ちしていました。<br>ケースに表示されているスペック。</span></h2>
+<a href="20210903_011.JPG" data-lightbox="abc"><img src="20210903_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210903_012.JPG" data-lightbox="abc"><img src="20210903_012.JPG" alt="サンプル画像" width="900" /></a>
+	
+<h1><span class="yellow">結果はここからでは全くアクセス出来ませんでした。<br>結論：やはり、しばらくはトランクリッドのSG9700で行きますかね〜！。</span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
